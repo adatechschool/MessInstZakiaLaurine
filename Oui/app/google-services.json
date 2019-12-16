@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "121745808867",
+    "firebase_url": "https://ouifirebaseproject.firebaseio.com",
+    "project_id": "ouifirebaseproject",
+    "storage_bucket": "ouifirebaseproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121745808867:android:b7a9395d43eb3e395614d6",
+        "android_client_info": {
+          "package_name": "com.example.oui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121745808867-107ir3gn3gv49op0c2nvm0432s27kihp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.oui",
+            "certificate_hash": "fc2f53a03db5f6a6052f8a8d63d20ce491572abf"
+          }
+        },
+        {
+          "client_id": "121745808867-47q2p3nni63lpjhb003tree3a0668fkc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr0UuusDQkGLkoX0QlY-OPXj41BUpkx6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121745808867-47q2p3nni63lpjhb003tree3a0668fkc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
