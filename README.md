@@ -1,6 +1,7 @@
 # MessInstZakiaLaurine
 
 Le projet de base est : La contruction d'une messagerie instantannée.
+
 Les nouvelles notions sont:
     - la création d'un client-serveur (vue avec le chat bot) 
     - l'utilisation de plusieurs clients 
