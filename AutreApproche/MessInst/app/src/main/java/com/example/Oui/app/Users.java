@@ -1,7 +1,5 @@
-package com.example.singhkshitiz.letschat;
-
 /**
- * Created by KSHITIZ on 3/20/2018.
+ * Created by lauri on 28/12/2019.
  * ------THIS CLASS IS FOR FETCHING A USER DATA-----
  */
 

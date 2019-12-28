@@ -1,5 +1,3 @@
-package com.example.singhkshitiz.letschat;
-
 import android.app.ProgressDialog;
 import android.content.Intent;
 import android.graphics.Bitmap;

@@ -1,5 +1,3 @@
-package com.example.singhkshitiz.letschat;
-
 import android.app.ProgressDialog;
 import android.support.annotation.NonNull;
 import android.support.design.widget.TextInputLayout;
